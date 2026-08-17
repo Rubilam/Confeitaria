@@ -1,0 +1,20 @@
+1 - Recurso
+2 - Função 
+3 - Específico
+
+    STYLE:
+        src = source = app -> pasta de aplication (tem todos os);
+        vendor -> biblioteca de animação, boostrap (código de terceiros);
+        layouts -> foot, header..., são padronizados;
+        components -> config de botões, onde mantém os padrões de cores de botões e etc;
+        global.css -> unico arquivo q facilita a config de todas as paginas de uma vez;
+
+    SCRIPTS:
+        services -> functions java script que consomem API de terceiros.
+        commons -> java script só em um pagina
+
+
+
+feature structure:
+    Cada funcionalidade tem que ter a organização de arquivos
+    dentro de um contexto (html e css juntos na mesma página).
