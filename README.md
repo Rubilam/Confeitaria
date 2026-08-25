@@ -1,24 +1,121 @@
-# Memória Nobre
+# 🍰 Festival de Fatias
 
-Site institucional da Memória Nobre, empresa especializada na manutenção de columbários, instalação de placas memoriais e serviços relacionados.
+ 
 
-🎯 Objetivo
+Bem-vindo(a) ao meu portfólio!
 
-O projeto foi desenvolvido para fortalecer a presença digital da Memória Nobre, apresentando seus serviços de forma clara, profissional e acessível, além de facilitar o contato com clientes interessados.
+ 
 
-✨ O que o site oferece
-Interface clara e objetiva, facilitando a navegação e o acesso às informações.
-Botões de ajuda e contato em destaque, permitindo que o visitante encontre suporte rapidamente.
-Informações sobre modelos de placas, possibilitando conhecer as opções disponíveis.
-Planos mensais de manutenção, apresentados de forma organizada para facilitar a escolha do cliente.
-Formulário de interesse, permitindo que potenciais clientes enviem seus dados e solicitem mais informações.
-Estrutura preparada para expansão, possibilitando futuramente atender outras unidades e cemitérios.
-🏛️ Sobre a Memória Nobre
+Sou uma dona de casa apaixonada pela confeitaria e preparo bolos artesanais com muito amor, carinho e ingredientes selecionados. Produzo cada bolo em minha cozinha para oferecer sabor, qualidade e aquele gostinho especial de receita caseira.
 
-A Memória Nobre busca oferecer serviços de qualidade, com mais de 20 anos de mercado, prezando pela conservação, organização e respeito aos espaços memoriais.
+ 
 
-Este projeto representa a base de sua expansão no ambiente digital, aproximando a empresa de novos clientes e possibilitando a ampliação de seus serviços.
+## 💖 Minha História
 
-📌 Status
+ 
 
-Projeto em desenvolvimento.
+Comecei a fazer bolos para minha família e amigos. Com o incentivo dos vizinhos e clientes, transformei essa paixão em uma forma de renda, levando doces momentos para muitas pessoas da minha região.
+
+
+
+Cada bolo é preparado de forma artesanal, com dedicação em cada detalhe.
+
+ 
+
+## 🍰 Cardápio Semanal
+
+
+
+### Segunda-feira
+
+- Bolo de Cenoura com Cobertura de Chocolate
+
+- Bolo de Milho
+
+ 
+
+### Terça-feira
+
+- Bolo de Fubá Cremoso
+
+- Bolo de Laranja
+
+ 
+
+### Quarta-feira
+
+- Bolo de Chocolate
+
+ 
+
+### Quinta-feira
+
+- Bolo de Coco
+
+ 
+
+### Sexta-feira
+
+- Bolo de Limão
+
+ 
+
+### Sábado
+
+- Bolo de Prestígio
+
+- Bolo de Leite Ninho
+
+ 
+
+### Domingo
+
+- Encomendas Especiais
+
+ 
+
+## 📦 Como Fazer Seu Pedido
+
+ 
+
+✅ Pedidos por WhatsApp
+
+ 
+
+✅ Retirada no local
+
+ 
+
+✅ Entrega na vizinhança (consultar disponibilidade)
+
+ 
+
+## 📸 Galeria
+
+ 
+
+Em breve, fotos dos meus bolos e das encomendas realizadas.
+
+ 
+
+## 📞 Contato
+
+ 
+
+**WhatsApp:** (XX) XXXXX-XXXX
+
+ 
+
+**Instagram:** @festival-de-fatias
+
+ 
+
+**Localização:** [Freguesia do Ó - São Paulo/SP]
+
+ 
+
+---
+
+ 
+
+✨ Feito com amor, carinho e muito sabor para adoçar o seu dia!
