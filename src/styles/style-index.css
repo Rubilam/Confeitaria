@@ -1,0 +1,258 @@
+/* definições gerais para não haver redundancia*/
+
+li{
+    color: black;
+    text-decoration: wavy;
+}
+
+li:hover{
+    color: rgb(97, 32, 32);
+}
+
+h2, h3{
+    color: rgb(97, 32, 32);
+    padding: 0%;
+    margin: auto;
+}
+
+
+header{
+    border: 0.2rem solid pink;
+    border-radius: 1rem;
+    margin: 3rem;
+    background-color: white;
+    box-shadow: 0rem 1.5rem 10px rgba(240, 74, 231, 0.15);
+}
+
+/* 1. Criamos a regra para a CAIXA PAI que segura os dois juntos */
+.container-topo {
+  display: flex;         /* Coloca a logo e o título lado a lado */
+  align-items: center;   /* Alinha os dois perfeitamente na mesma altura */
+  gap: 2rem;             /* Cria um espaço amigável entre a logo e o texto */
+  margin: 1rem;          /* Dá um espaço nas bordas externas */
+}
+
+.logo_main {
+  height: 10rem;
+  width: auto;
+  object-fit: contain;
+}
+
+.titulo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 3rem;
+  margin: 0;
+}
+
+.bar_division{
+    background-color: lightpink;
+    position:relative;
+    height: 0.1rem;
+    margin: 0rem 2rem 0rem 2rem;
+    border-radius: 7rem;
+}
+
+header ul{
+    justify-content: center;
+    list-style-type: none;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    gap: 7rem;
+}
+
+header li{
+    margin: 1rem;
+    width: auto;
+    align-items: center;
+    font-size: 2rem;
+}
+
+#navbar{
+}
+
+body{
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body main{
+    margin: 0 3rem 0 3rem;
+}
+
+.box1{
+    border-radius: 3rem;
+    margin-top: 1rem;
+    padding: 3rem;
+    display: flex;
+    height: 25rem;
+    width: 50rem;
+    display: flex;
+    gap: 1.5rem; /* Cria um espaço entre as duas divs */
+    align-items: flex-start; /* Alinha o topo delas */
+    display: inline-block;
+    vertical-align: top; /* Garante que fiquem alinhadas pelo topo */
+}
+
+.more{
+    box-shadow: 0 0rem 1.5rem 10px rgba(240, 74, 231, 0.15);
+    border-radius: 3rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    padding-top: 0rem;
+    padding-bottom: 20rem;
+    height: 10rem;
+    width: 30rem;
+    display: inline-flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.more button{
+    background-color: rgba(240, 74, 231, 0.15);
+    border: 0.1rem solid lightpink;
+    border-radius: 3rem;
+    padding: 1rem;
+    margin: 2rem 0.8rem 0 0.8rem;
+    align-items: center;
+    text-align: center;
+}
+
+.more button:hover{
+    background-color: white;
+}
+
+.more_img{
+    height: auto;
+    width: auto; /* mantém uma boa proporção de img */
+    border-radius: 3rem;
+    border: 0.1rem solid lightpink;
+    padding: 0;
+    margin: 0 2rem 0 2rem;
+    width: auto;
+}
+
+.box2{
+    padding: 3rem;
+    height: 10rem; /* Mudado de 10rem para 100vh para ocupar a tela toda */
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    width: 70rem;
+    margin: 2rem auto; /* O 'auto' ajuda a centralizar o bloco todo na tela */
+    gap: 1.5rem;
+}
+
+.catalogo{
+    padding: 0%;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    text-decoration:underline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inventario{
+    box-shadow: 0 0rem 1.5rem 10px rgba(240, 74, 231, 0.15);
+    border-radius: 3rem;
+    padding-left: 0rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.item{
+    border: 0.2rem solid pink;
+    border-radius: 3rem;
+    margin: 0.5rem;
+    height: 30rem;
+    width: 20rem;
+    /*padding: 10rem;*/
+    margin: 1rem 0.5rem 1rem 0.5rem;
+    text-align: center;
+}
+
+.item h2{
+    font-size: 1.8rem;
+    margin-top: 0.5rem;
+}
+
+.item img{
+    height: 10rem;
+    width: auto;
+    object-fit: contain;
+
+}
+
+.item button{
+    background-color: rgba(240, 74, 231, 0.15);
+    border: 0.1rem solid lightpink;
+    border-radius: 3rem;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.formulario{
+    border: 0.1rem solid lightpink;
+    box-shadow: 0 0rem 1.5rem 10px rgba(240, 74, 231, 0.15);
+    border-radius: 3rem;
+    padding: 1rem;
+    height: 15rem;
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3rem;
+}
+
+form p button{
+    background-color: rgba(240, 74, 231, 0.15);
+    border: 0.1rem solid lightpink;
+    border-radius: 3rem;
+    display: flex;
+    padding: 1rem;
+    margin-top: 0.8rem;
+    align-items: center;
+}
+
+form p button:hover{
+    background-color: white
+}
+
+#forms{
+    border: 0.1rem solid lightpink;
+    border-radius: 3rem;
+}
+
+footer{
+    border: 0.2rem solid pink;
+    padding: 1rem;
+    border-radius: 1rem;
+    margin: 3rem;
+    background-color: white;
+    box-shadow: 0 0rem 1.5rem 20px rgba(240, 74, 231, 0.15);
+}
+
+/* 1. Criamos a regra para a CAIXA PAI que segura os dois juntos */
+.container-baixo {
+    display: flex;
+    justify-content: space-around; /* Espalha os títulos igualmente na tela */
+    align-items: flex-start;       /* Alinha o topo de todos os títulos */
+    padding: 20px;
+}
+
+.alinhamento ul{
+    text-decoration: none;
+}
+
+.alinhamento{
+    display: flex;
+    flex-direction: column;        /* Empilha o título e a lista verticalmente */
+    gap: 10px;  
+}
