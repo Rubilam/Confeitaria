@@ -68,9 +68,6 @@ header li{
     font-size: 2rem;
 }
 
-#navbar{
-}
-
 body{
     background-color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -121,9 +118,7 @@ body main{
     text-align: center;
 }
 
-.more button:hover{
-    background-color: white;
-}
+
 
 .more_img{
     height: auto;
@@ -146,7 +141,7 @@ body main{
     gap: 1.5rem;
 }
 
-.catalogo{
+.cardapio{
     padding: 0%;
     margin-bottom: 2rem;
     font-size: 2rem;
@@ -164,13 +159,12 @@ body main{
     grid-template-columns: repeat(4, 1fr);
     justify-content: center;
     align-items: center;
-    
+    margin-top: 1rem;
 }
 
 .item{
     border: 0.2rem solid pink;
     border-radius: 3rem;
-    margin: 0.5rem;
     height: 30rem;
     width: 20rem;
     /*padding: 10rem;*/
@@ -209,6 +203,11 @@ body main{
     justify-content: center;
     align-items: center;
     margin-left: 3rem;
+}
+
+.formulario h1{
+    margin-top: 1rem;
+    padding: 0;
 }
 
 form p button{
@@ -255,4 +254,11 @@ footer{
     display: flex;
     flex-direction: column;        /* Empilha o título e a lista verticalmente */
     gap: 10px;  
+}
+
+
+/*define configurações padrões*/
+
+button:hover{
+    background-color: white;
 }
