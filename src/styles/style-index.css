@@ -141,6 +141,21 @@ body main{
     gap: 1.5rem;
 }
 
+#pesquisa {
+    width: 350px;
+    max-width: 90%;
+    padding: 12px;
+    border-radius: 3rem;
+    border: 1px solid pink;
+    margin: 20px auto;
+    display: flex;
+    font-size: 16px;
+}
+
+#pesquisa :placeholder-shown :hover{
+    background-color: yellow;
+}
+
 .cardapio{
     padding: 0%;
     margin-bottom: 2rem;
